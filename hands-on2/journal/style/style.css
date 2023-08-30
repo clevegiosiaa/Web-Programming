@@ -1,0 +1,62 @@
+*{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.day1info{
+	text-align: justify;
+	font-family: 'Times New Roman', Times, serif
+}
+.intro{
+	color: rgb(189, 54, 54)
+}
+.day1{
+	border: 1px solid;
+	width: 50%;
+}
+.day1 h2{	
+	color: rgb(203, 83, 81)
+}
+.day1info{
+	color: rgb(71, 71, 203)
+}
+.day1info q{	
+	color: rgb(201, 10, 10)
+}
+.tamansari{
+	width: 30%;
+}
+.getthere{
+	padding-left: 3%;
+}
+.batik{
+	width: 30%;
+}
+.price_table{
+	border-collapse: collapse;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	float: left;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.price_table td, th{
+	border: 1px solid #dddddd;
+	text-align: center;
+	padding: 8px;
+} 
+.price_table tr:nth-child(even){
+	background-color: #dddddd;
+}
+/* .day2{
+	border: 1px solid;
+} */
+.day2 blockquote{
+	padding-left: 5px;
+	color: rgb(201, 10, 10)
+}
+.day2 h2{	
+	color: rgb(105, 9, 8)
+}
+.day2 ol{
+	padding-left: 30px;
+}
